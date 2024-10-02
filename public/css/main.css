@@ -217,3 +217,9 @@ form {
     display: none;
   }
 }
+
+
+img{
+  width:180px ;
+  height: 300px;
+}
